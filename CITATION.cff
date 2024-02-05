@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Bücker"
+  given-names: "Michael"
+  orcid: "https://orcid.org/0000-0003-0045-8460"
+- family-names: "Hoti"
+  given-names: "Kreshnik"
+  orcid: "https://orcid.org/0000-0001-7652-6074"
+- family-names: "Rose"
+  given-names: "Olaf"
+  orcid: "https://orcid.org/0000-0003-1681-4909"
+title: "Artificial intelligence in pharmacotherapy – mission (im-)possible?"
+version: 1.0.0
+date-released: 2024-02-05
+url: "https://github.com/mchlbckr/paper_ai_pharmacotherapy/tree/main"

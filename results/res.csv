@@ -1,0 +1,9 @@
+Variable,auc_train,acc_train,auc,acc
+Nitrospray,99%,99%,100%,100%
+Aldosteronantagonist,86%,88%,100%,100%
+ISMN/ISDN,68%,85%,50%,81%
+Schleifendiuretikum,66%,64%,70%,65%
+Betablocker,64%,80%,50%,65%
+Thiazid,57%,76%,56%,69%
+ACE-Hemmer/Sartan,55%,97%,NA,100%
+CCB-DHP,52%,59%,31%,38%
